@@ -10,7 +10,7 @@ import modelo.CabeceraVenta;
 import modelo.DetalleVenta;
 
 /**
- * @author edison
+ * 
  */
 public class Ctrl_RegistrarVenta {
     
