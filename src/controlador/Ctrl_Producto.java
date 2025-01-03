@@ -10,7 +10,7 @@ import modelo.Producto;
 
 /**
  *
- * @author Edison Zambrano - © Programador Fantasma
+ *
  */
 public class Ctrl_Producto {
      /**
