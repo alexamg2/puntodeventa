@@ -27,7 +27,7 @@ import vista.InterFacturacion;
 
 /**
  *
- * @author edison
+ * 
  */
 public class VentaPDF {
 
