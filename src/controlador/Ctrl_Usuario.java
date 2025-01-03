@@ -12,7 +12,7 @@ import modelo.Usuario;
 
 /**
  *
- * @author Edison Zambrano - © Programador Fantasma
+ * 
  */
 public class Ctrl_Usuario {
     
