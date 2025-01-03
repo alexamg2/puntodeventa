@@ -1,0 +1,1 @@
+mover la carpoetas Imge, img dentro de la carpeta src
